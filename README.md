@@ -43,16 +43,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imigransorga&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imigransorga&layout=compact&hide_border=true&theme=tokyonight" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imigransorga&theme=tokyonight" width="100%" alt="profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imigransorga&hide_border=true&theme=tokyonight" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imigransorga&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imigransorga&theme=tokyonight" height="165" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imigransorga&theme=tokyonight" height="165" alt="top languages"/>
 </p>
 
 <!-- Animated wave footer -->
