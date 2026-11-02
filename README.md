@@ -51,5 +51,39 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imigransorga&theme=tokyonight" height="165" alt="top languages"/>
 </p>
 
+### 🕹️ Pac-Man eating my commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imigransorga/imigransorga/output/pacman-contribution-graph-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/imigransorga/imigransorga/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%"/>
+  </picture>
+</p>
+
+<details>
+<summary>🎮 More arcade games (Snake · Breakout · Tetris)</summary>
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imigransorga/imigransorga/output/snake-contribution-graph-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/imigransorga/imigransorga/output/snake-contribution-graph.svg" alt="Snake contribution graph" width="100%"/>
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imigransorga/imigransorga/output/breakout-contribution-graph-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/imigransorga/imigransorga/output/breakout-contribution-graph.svg" alt="Breakout contribution graph" width="100%"/>
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imigransorga/imigransorga/output/tetris-contribution-graph-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/imigransorga/imigransorga/output/tetris-contribution-graph.svg" alt="Tetris contribution graph" width="100%"/>
+  </picture>
+</p>
+
+</details>
+
 <!-- Animated wave footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" width="100%"/>
